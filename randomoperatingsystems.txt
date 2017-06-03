@@ -26,7 +26,6 @@ http://aryalinux.org/
 https://clearlinux.org
 https://nixos.org/
 https://www.exherbo.org/
-https://manjaro.org/
 https://www.opensuse.org/
 https://www.centos.org/
 https://www.scientificlinux.org/
@@ -69,6 +68,8 @@ http://obrevenge.weebly.com/
 http://www.xentaos.org/
 https://velt.io/
 http://ferenos.weebly.com/
+https://neon.kde.org/
+https://manjaro.org/
 
 BSD:
 http://www.mirbsd.org/
