@@ -70,6 +70,7 @@ https://velt.io/
 http://ferenos.weebly.com/
 https://neon.kde.org/
 https://manjaro.org/
+http://www.macrolinux.ml/
 
 BSD:
 http://www.mirbsd.org/
@@ -91,3 +92,4 @@ http://www.projectoberon.com/
 https://sel4.systems/
 https://genode.org/index
 http://www.linuxfromscratch.org/
+http://without-systemd.org/wiki/index.php/Main_Page
