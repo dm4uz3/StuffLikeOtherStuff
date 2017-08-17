@@ -9,6 +9,8 @@ http://www.ask.com/
 https://www.yandex.com/
 http://www.webcrawler.com/
 https://www.search.com/
+https://www.searchall.com
+http://startpage.com
 http://msxml.excite.com/search/
 http://www.info.com/
 https://www.ixquick.com/
