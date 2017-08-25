@@ -15,6 +15,9 @@ http://msxml.excite.com/search/
 http://www.info.com/
 https://www.ixquick.com/
 http://search.mybluelight.com/search
+https://www.findx.com/
+https://www.qwant.com/
+https://searx.me
 
 http://l-lists.com/en/lists/qukoen.html
 https://en.wikipedia.org/wiki/List_of_search_engines

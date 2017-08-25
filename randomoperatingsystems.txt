@@ -20,6 +20,7 @@ http://redox-os.org/
 http://riscosopen.org/content/
 http://templeos.org/
 http://vitanuova.com/inferno/
+https://github.com/Druaga1/DankOS
 
 Linux:
 http://absolutelinux.org/index.shtml
@@ -71,6 +72,7 @@ http://manjaro.org/
 http://neon.kde.org/
 http://obrevenge.weebly.com/
 https://redcorelinux.org/
+http://ututo.org/
 http://velt.io/
 http://xentaos.org/
 
@@ -88,7 +90,7 @@ http://netbsd.org/
 http://openbsd.org/
 http://pacbsd.org/
 http://trueos.org/
-http://ubuntubsd.org/
+http://web.archive.org/web/20170403055827/http://ubuntubsd.org/
 
 Related:
 http://genode.org/index
