@@ -13,6 +13,7 @@ http://l4linux.org/
 http://menuetos.net/
 http://minix3.org/
 http://morphos-team.net/
+http://node-os.com/
 http://puredarwin.github.io/
 http://qnx.com/content/qnx/en/products/neutrino-rtos/neutrino-rtos.html
 http://reactos.org/
