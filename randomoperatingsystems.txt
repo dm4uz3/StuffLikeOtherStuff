@@ -73,11 +73,14 @@ http://macrolinux.ml/
 http://manjaro.org/
 http://neon.kde.org/
 http://obrevenge.weebly.com/
+http://pinguyos.com/
+http://pointlinux.org/
 https://redcorelinux.org/
 http://revengeos.weebly.com/
 http://ututo.org/
 http://velt.io/
 http://xentaos.org/
+https://zorinos.com/
 
 
 BSD:
