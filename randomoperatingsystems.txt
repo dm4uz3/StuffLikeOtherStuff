@@ -32,6 +32,7 @@ http://calculate-linux.org/
 http://centos.org/
 http://chakralinux.org/
 http://clearlinux.org
+http://www.cucumberlinux.com/
 http://debian.org/
 http://devuan.org/
 http://endlessos.com/home/
@@ -72,6 +73,7 @@ http://manjaro.org/
 http://neon.kde.org/
 http://obrevenge.weebly.com/
 https://redcorelinux.org/
+http://revengeos.weebly.com/
 http://ututo.org/
 http://velt.io/
 http://xentaos.org/
