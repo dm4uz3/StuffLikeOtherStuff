@@ -69,7 +69,6 @@ http://zenwalkgnulinux.blogspot.fr/
 
 Desktop only?:
 http://antergos.com/
-http://apricityos.com/
 http://bunsenlabs.org/
 http://bridgelinux.org/
 http://ferenos.weebly.com/
