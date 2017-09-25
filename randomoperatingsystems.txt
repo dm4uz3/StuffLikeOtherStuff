@@ -54,6 +54,7 @@ http://nutyx.org/en/
 http://opensuse.org/
 http://oracle.com/technetwork/server-storage/linux/overview/index.html
 http://paldo.org/
+https://www.parabola.nu/
 http://pisilinux.org/en
 http://pld-linux.org/
 http://qubes-os.org/
@@ -73,11 +74,11 @@ http://bunsenlabs.org/
 http://bridgelinux.org/
 http://ferenos.weebly.com/
 http://linuxmint.com/
-http://www.pclinuxos.com/
 http://macrolinux.ml/
 http://manjaro.org/
 http://neon.kde.org/
 http://obrevenge.weebly.com/
+http://www.pclinuxos.com/
 http://pinguyos.com/
 http://pointlinux.org/
 https://redcorelinux.org/
