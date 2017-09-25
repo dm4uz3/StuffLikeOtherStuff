@@ -22,6 +22,8 @@ http://riscosopen.org/content/
 http://templeos.org/
 http://vitanuova.com/inferno/
 https://github.com/Druaga1/DankOS
+http://www.bolgenos.su/index_en.html
+https://www.arcanoae.com/
 
 Linux:
 http://absolutelinux.org/index.shtml
@@ -34,6 +36,7 @@ http://centos.org/
 http://chakralinux.org/
 http://clearlinux.org
 http://www.cucumberlinux.com/
+https://crux.nu/
 http://debian.org/
 http://devuan.org/
 http://endlessos.com/home/
@@ -67,8 +70,10 @@ Desktop only?:
 http://antergos.com/
 http://apricityos.com/
 http://bunsenlabs.org/
+http://bridgelinux.org/
 http://ferenos.weebly.com/
 http://linuxmint.com/
+http://www.pclinuxos.com/
 http://macrolinux.ml/
 http://manjaro.org/
 http://neon.kde.org/
@@ -79,6 +84,7 @@ https://redcorelinux.org/
 http://revengeos.weebly.com/
 http://ututo.org/
 http://velt.io/
+https://www.xebian.org/
 http://xentaos.org/
 https://zorinos.com/
 

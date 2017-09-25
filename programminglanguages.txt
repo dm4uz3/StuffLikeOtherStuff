@@ -2,3 +2,7 @@ http://www.red-lang.org/
 https://call-cc.org/
 http://pike.lysator.liu.se/
 https://nim-lang.org/
+http://squirrel-lang.org/
+https://dlang.org/
+https://wiki.gnome.org/Projects/Genie
+http://qore.org/
