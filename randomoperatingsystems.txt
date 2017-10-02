@@ -24,6 +24,7 @@ http://vitanuova.com/inferno/
 https://github.com/Druaga1/DankOS
 http://www.bolgenos.su/index_en.html
 https://www.arcanoae.com/
+https://www.ponyos.org/
 
 Linux:
 http://absolutelinux.org/index.shtml
@@ -31,6 +32,7 @@ http://alpinelinux.org/
 http://aosc.io/projects/aosc-os
 http://archlinux.org/
 http://aryalinux.org/
+https://www.bedrocklinux.org/
 http://calculate-linux.org/
 http://centos.org/
 http://chakralinux.org/
@@ -72,6 +74,7 @@ http://antergos.com/
 http://bunsenlabs.org/
 http://bridgelinux.org/
 http://ferenos.weebly.com/
+https://kororaproject.org/
 http://linuxmint.com/
 http://macrolinux.ml/
 http://manjaro.org/
