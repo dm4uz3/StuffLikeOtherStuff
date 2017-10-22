@@ -28,3 +28,4 @@ https://www.brave.com/
 https://minbrowser.github.io/min/
 http://dooble.sourceforge.net/
 http://www.dillo.org/
+https://gnumdk.github.io/eolie-web/

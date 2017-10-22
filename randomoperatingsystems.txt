@@ -1,4 +1,5 @@
 http://9p.io/plan9/
+http://9front.org/
 http://archhurd.org/
 http://aros.sourceforge.net/
 http://dex-os.github.io/
@@ -12,6 +13,7 @@ http://kolibrios.org/en/index
 http://l4linux.org/
 http://menuetos.net/
 http://minix3.org/
+http://mikeos.sourceforge.net/
 http://morphos-team.net/
 http://node-os.com/
 http://puredarwin.github.io/
@@ -107,9 +109,14 @@ http://pacbsd.org/
 http://trueos.org/
 http://web.archive.org/web/20170403055827/http://ubuntubsd.org/
 
+Illumos:
+https://www.openindiana.org/
+https://www.osdyson.org/
+
 Related:
 http://genode.org/index
 http://linuxfromscratch.org/
 http://projectoberon.com/
 http://sel4.systems/
 http://without-systemd.org/wiki/index.php/Main_Page
+https://sta.li/
