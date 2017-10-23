@@ -120,3 +120,4 @@ http://projectoberon.com/
 http://sel4.systems/
 http://without-systemd.org/wiki/index.php/Main_Page
 https://sta.li/
+http://wiki.osdev.org/Projects
