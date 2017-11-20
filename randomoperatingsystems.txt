@@ -39,6 +39,7 @@ http://calculate-linux.org/
 http://centos.org/
 http://chakralinux.org/
 http://clearlinux.org
+https://cloveros.ga/
 http://www.cucumberlinux.com/
 https://crux.nu/
 http://debian.org/
@@ -80,6 +81,7 @@ https://kororaproject.org/
 http://linuxmint.com/
 http://macrolinux.ml/
 http://manjaro.org/
+https://mofolinux.com/
 http://neon.kde.org/
 http://obrevenge.weebly.com/
 http://www.pclinuxos.com/
