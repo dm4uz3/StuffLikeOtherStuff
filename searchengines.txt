@@ -17,8 +17,7 @@ https://www.ixquick.com/
 http://search.mybluelight.com/search
 https://www.findx.com/
 https://www.qwant.com/
-https://searx.me
-https://searx.info/
+https://search.disroot.org/
 http://infospace.com/
 https://swisscows.ch/
 http://www.lukol.com/
@@ -30,5 +29,6 @@ http://yippy.com/
 https://www.ecosia.org/
 http://boardreader.com/
 
+https://github.com/asciimoo/searx/wiki/Searx-instances
 http://l-lists.com/en/lists/qukoen.html
 https://en.wikipedia.org/wiki/List_of_search_engines

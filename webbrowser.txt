@@ -1,5 +1,5 @@
 https://iridiumbrowser.de/
-https://www.qupzilla.com/
+https://www.qupzilla.com/ & https://phabricator.kde.org/source/falkon/
 https://vivaldi.com/?lang=en_US
 http://www.opera.com/
 https://www.google.com/chrome/
