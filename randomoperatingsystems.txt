@@ -38,6 +38,7 @@ http://absolutelinux.org/index.shtml
 http://alpinelinux.org/
 http://aosc.io/projects/aosc-os
 http://archlinux.org/
+https://artixlinux.org/
 http://aryalinux.org/
 https://www.bedrocklinux.org/
 http://calculate-linux.org/
