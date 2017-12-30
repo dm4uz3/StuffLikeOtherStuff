@@ -48,6 +48,7 @@ http://clearlinux.org
 https://cloveros.ga/
 http://www.cucumberlinux.com/
 https://crux.nu/
+https://daisyos.weebly.com/
 http://debian.org/
 http://devuan.org/
 http://endlessos.com/home/
@@ -123,6 +124,7 @@ https://www.osdyson.org/
 
 Related:
 http://genode.org/index
+http://gittup.org/gittup/
 http://linuxfromscratch.org/
 http://projectoberon.com/
 http://sel4.systems/
