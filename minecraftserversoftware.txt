@@ -5,3 +5,8 @@ https://cuberite.org/
 https://www.glowstone.net/
 https://diorite.org/
 https://cyberdynecc.github.io/Thermos/
+
+minecraft alternatives:
+https://www.minetest.net/
+https://truecraft.io/
+http://terasology.org/

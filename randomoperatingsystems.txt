@@ -3,8 +3,6 @@ https://www.microsoft.com/en-us/software-download/windows10ISO
 https://www.apple.com/mac/ (not downloadble without the App Store, and not legal to install on non-Apple hardware due to terrible EULA)
 
 Other:
-http://9p.io/plan9/
-http://9front.org/
 http://archhurd.org/
 http://aros.sourceforge.net/
 http://dex-os.github.io/
@@ -122,6 +120,12 @@ http://web.archive.org/web/20170403055827/http://ubuntubsd.org/
 Illumos:
 https://www.openindiana.org/
 https://www.osdyson.org/
+
+plan9:
+http://9p.io/plan9/
+http://9front.org/
+http://www.9atom.org/
+http://www.9legacy.org/
 
 Related:
 http://genode.org/index

@@ -1,8 +1,11 @@
 https://tox.chat/about.html
-https://matrix.org/ & http://riot.im
-https://www.skype.com/en/ & http://web.skype.com
+https://matrix.org/ / https://matrix.org/docs/projects/try-matrix-now.html / https://www.hello-matrix.net/public_servers.php
+https://www.skype.com/en/ / http://web.skype.com
 https://ring.cx/
 https://www.signal.org/
+https://wire.com/
 https://discord.gg
 http://www.teamspeak.com/
 https://wiki.mumble.info/wiki/Main_Page
+https://about.mattermost.com/
+https://rocket.chat/

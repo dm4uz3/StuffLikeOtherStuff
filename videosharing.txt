@@ -1,7 +1,14 @@
+Normie:
 https://www.youtube.com/
-https://vid.me/
+https://www.dailymotion.com/us
+
+
+Alt:
 https://www.bitchute.com/
 https://pew.tube/
 https://hooktube.com/
-https://peertube.cpy.re
+https://github.com/Chocobozzz/PeerTube/wiki#other-peertube-servers
 https://d.tube/
+
+Dead:
+https://vid.me/

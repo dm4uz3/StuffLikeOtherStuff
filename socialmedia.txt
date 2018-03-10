@@ -1,11 +1,23 @@
+Normie:
 https://www.facebook.com/
 https://twitter.com/
+https://www.reddit.com/
+https://www.instagram.com/ / https://github.com/terkelg/ramme
+https://www.pinterest.com/
+https://www.tumblr.com/
+
+Alt:
 https://gab.ai
 https://www.minds.com/
-https://mastodon.social/ or https://linuxrocks.online
-https://joindiaspora.com/ or https://pod.disroot.org
+https://joinmastodon.org/
+https://podupti.me/
 https://friendi.ca/
 http://retroshare.net/
 https://www.scuttlebutt.nz/
 https://wrongthink.net/
 https://vk.com/
+https://voat.co/
+https://steemit.com/
+
+https://the-federation.info/
+https://github.com/hiveway/hiveway
